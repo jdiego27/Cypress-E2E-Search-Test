@@ -1,4 +1,4 @@
-Basically this is a test of search in google web site1
+Basically this is a test for a search in google web site
 
 1. Navigate to the url www.google.com
 2. Enter a word in the search field and hit enter
